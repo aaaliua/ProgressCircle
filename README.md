@@ -1,4 +1,4 @@
-# ProgressCircle [![GitHub license](https://img.shields.io/github/license/mashape/apistatus.svg)]()
+# ProgressCircle [![GitHub license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://raw.githubusercontent.com/alokvnair/ProgressCircle/master/LICENSE)
 A Material Design Progress Loader based on [Spinner Loader - Gooey light Effect](https://goo.gl/2L7wDk) by Christophe Kerebel
 
 ![ProgressCircle](https://raw.githubusercontent.com/alokvnair/ProgressCircle/master/screens/progressCircle.gif)

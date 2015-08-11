@@ -1,4 +1,4 @@
-# ProgressCircle [![GitHub license](https://img.shields.io/github/license/mashape/apistatus.svg)](https://raw.githubusercontent.com/alokvnair/ProgressCircle/master/LICENSE)
+# ProgressCircle [![Download](https://api.bintray.com/packages/alokvnair/maven/ProgressCircle/images/download.svg)](https://bintray.com/alokvnair/maven/ProgressCircle/_latestVersion)
 A Material Design Progress Loader based on [Spinner Loader - Gooey light Effect](https://goo.gl/2L7wDk) by Christophe Kerebel
 
 ![ProgressCircle](https://raw.githubusercontent.com/alokvnair/ProgressCircle/master/screens/progressCircle.gif)
@@ -8,9 +8,7 @@ only one attribute `point_color`
 
 ```xml
 <com.alokvnair.progresscircle.ProgressCircle
-        android:id="@+id/one"
-        android:layout_marginTop="30dp"
-        android:layout_centerHorizontal="true"
+        android:id="@+id/progressCircle"
         app:point_color="@color/accent_material_dark"
         android:layout_width="40dp"
         android:layout_height="40dp"/>

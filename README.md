@@ -4,6 +4,15 @@ A Material Design Progress Loader based on [Spinner Loader - Gooey light Effect]
 ![ProgressCircle](https://raw.githubusercontent.com/alokvnair/ProgressCircle/master/screens/progressCircle.gif)
 
 ###Usage
+
+You can add to your project by adding the following dependency to your `build.gradle`
+
+```
+dependencies {
+    compile 'com.alokvnair:progresscircle:1.0.0'
+}
+```
+
 only one attribute `point_color`
 
 ```xml

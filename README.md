@@ -1,4 +1,4 @@
-# ProgressCircle [![Download](https://api.bintray.com/packages/alokvnair/maven/ProgressCircle/images/download.svg)](https://bintray.com/alokvnair/maven/ProgressCircle/_latestVersion)
+# ProgressCircle [![Download](https://api.bintray.com/packages/alokvnair/maven/ProgressCircle/images/download.svg)](https://bintray.com/alokvnair/maven/ProgressCircle/_latestVersion) [![Android Arsenal](https://img.shields.io/badge/Android%20Arsenal-ProgressCircle-brightgreen.svg?style=flat)](http://android-arsenal.com/details/1/2326)
 A Material Design Progress Loader based on [Spinner Loader - Gooey light Effect](https://goo.gl/2L7wDk) by Christophe Kerebel
 
 ![ProgressCircle](https://raw.githubusercontent.com/alokvnair/ProgressCircle/master/screens/progressCircle.gif)
